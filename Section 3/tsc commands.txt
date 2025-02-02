@@ -1,0 +1,7 @@
+tsc filename.ts --watch => this is for entering watch mode
+
+
+
+tsc --init  => for compile projects
+tsc => after tsc --init will compile the whole project
+tsc --watch => after tsc --init will watch for whole project
